@@ -1,0 +1,545 @@
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.application
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.xml
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.pdb
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.application
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.exe
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.pdb
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.xml
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\RdlCompile.cache
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\RdlCompile.compiled
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.application
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatientRegBelow5.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationOption.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Profile.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Physical_Examination.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.View_Vitals.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request_Results.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DailyDrug_Cost.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedDrugCost.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.ViewFP.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DailyFP.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DailyMCH.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.GeneralMCH.resources
+F:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedMCH.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.xml
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.pdb
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.application
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\bin\Debug\Hospital Management System.xml
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatientRegBelow5.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationOption.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DailyDrug_Cost.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DailyFP.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DailyMCH.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedDrugCost.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedMCH.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.GeneralMCH.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request_Results.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Profile.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.Physical_Examination.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.ViewFP.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.View_Vitals.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\RdlCompile.cache
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\RdlCompile.compiled
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital Management System.application
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.WklyRpt.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.FPReport.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.MCHWklyReport.resources
+D:\2017\Hospital Management System KABISAv2\Hospital Management System\obj\Debug\Hospital_Management_System.MCHProfileRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatientRegBelow5.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationOption.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.FPReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MCHProfileRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MCHWklyReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.WklyRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyDrug_Cost.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedDrugCost.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.GeneralMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request_Results.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Profile.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Physical_Examination.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.ViewFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.View_Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\3\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatientRegBelow5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationOption.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.FPReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MCHProfileRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MCHWklyReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.WklyRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyDrug_Cost.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedDrugCost.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.GeneralMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request_Results.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Profile.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Physical_Examination.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.ViewFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.View_Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Dianosis_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Dianosis_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew__User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatientRegBelow5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationOption.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.FPReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MCHProfileRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MCHWklyReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Out_of_Stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Discharge_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Equipment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Move_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.WklyRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Stock_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyDrug_Cost.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DailyMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedDrugCost.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.GeneralMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request_Results.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Profile.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.Physical_Examination.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.ViewFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital_Management_System.View_Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Kiganjo\Hospital Management System KABISAv3\Hospital Management System\obj\Debug\Hospital Management System.application
