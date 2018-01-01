@@ -1,0 +1,88 @@
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\bin\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Dianosis_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmAddNew_User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmDiagnosis.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.SelfRequest_Results.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.FrmTreament.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Data.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Select_Procedure.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Outside_Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Pending_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmDrugEntry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Procedures_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.FPReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.MCHProfileRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.MCHWklyReport.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Monthly_Payment_View.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.WklyRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Trial_Balance.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Update_Payments.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPayments.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.DailyDrug_Cost.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.DailyFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.DailyMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedDrugCost.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.DetailedMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.GeneralMCH.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Lab_Request_Results.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Profile.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.Physical_Examination.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.ViewFP.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.View_Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Msoft-Hospital Care.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Hospital systems\Hospital Management System Final\Hospital Management System\obj\Debug\Hospital_Management_System.frmLock.resources

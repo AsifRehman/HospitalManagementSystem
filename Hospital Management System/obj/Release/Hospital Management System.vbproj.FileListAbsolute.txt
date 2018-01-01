@@ -1,0 +1,66 @@
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Release\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Release\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Release\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Release\Hospital Management System.pdb
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\bin\Release\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.frmAddNew__User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.frmlogin.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.frmSplashScreen.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.LabTestPayment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.AboveFive.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Below5.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.IndividualRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.LabReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.LabResults.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Out_of_Stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.ifexist.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.LabResult.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.OutpatLabTreatment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.PrescriptionBill.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Patient_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.PaymentRpt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.AddDrugQuantity.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Consultation.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Discharge_Report.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Lab_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Department.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Equipment.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Move_Patients.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Outpatient_Billing.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Prescription.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Drugs_Instock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Drugs_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Counter_Sale.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Phyc_Exam.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.QuickPickDrug.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.frmFamplan.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Immunization.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Others.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Drugs_Entry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Reviews.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.CounterReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.LabRprt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.PatientRec.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.PaymentReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Sick_Off.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.SickOffReceipt.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.stock.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Stock_Out.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.login.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.MDI.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Resources.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Outpatient_Registration.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Self_Request.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.testentry.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.User.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Vendors.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital_Management_System.Vitals.resources
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\RdlCompile.cache
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\RdlCompile.compiled
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital Management System.exe.manifest
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital Management System.application
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital Management System.exe
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital Management System.xml
+C:\Users\ESSCOH MUTISO\Desktop\Kiganjo Hospital\Hospital Management System KABISA\Backup\Hospital Management System\obj\Release\Hospital Management System.pdb
